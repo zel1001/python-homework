@@ -1,0 +1,2 @@
+Total Months,Cash Total,Highest Amount,Lowest Amount,Total Average
+86,38382578,Feb-2012,1170593,Sep-2013,-1196225,446309.05
